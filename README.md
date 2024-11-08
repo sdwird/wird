@@ -2,7 +2,7 @@
 wird indirme paneli
 
 
-VERSİYON : V 1
+VERSİYON : V 2
 
 
 bu panel furkankeykus kanalının isteği üzerine  yapılmıştır.
