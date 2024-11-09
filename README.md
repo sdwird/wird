@@ -1,5 +1,5 @@
 # wird
-wird indirme paneli
+wird indirme paneli ( bu indirme paneli spesifik olarak meb erişim engeli olan yerler için yapılmıştır )
 
 
 VERSİYON : V 2
