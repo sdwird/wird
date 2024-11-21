@@ -2,14 +2,15 @@
 wird indirme paneli ( bu indirme paneli spesifik olarak meb erişim engeli olan yerler için yapılmıştır )
 
 
-VERSİYON : V 2
+VERSİYON : V 3
 
 
 bu panel furkankeykus kanalının isteği üzerine  yapılmıştır.
 
 https://www.youtube.com/@furkankeykus
 
-![image](https://github.com/user-attachments/assets/b713115d-d9c2-459d-b00c-978d1dac72d4)
+![image](https://github.com/user-attachments/assets/638aa2ec-51db-4b66-ad81-576a96a5e4aa)
+
 
 
 https://www.youtube.com/watch?v=DXTQNNs28so
