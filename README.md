@@ -1,38 +1,66 @@
 # Wird
 
-```
-   ,., '                              ,.-·.          ,. -  .,                  ;'*¨'`·- .,  ‘            
- ,'   '`;                 ,·;'        /    ;'\'      ,' ,. -  .,  `' ·,           \`:·-,. ,   '` ·.  '      
- ;    ,':\     ,'´¨';     '; ;'\      ;    ;:::\     '; '·~;:::::'`,   ';\         '\:/   ;\:'`:·,  '`·, '   
- ;    ';::'\  ,'   ,'\   ,' ,'::'\    ';    ;::::;'     ;   ,':\::;:´  .·´::\'        ;   ;'::\;::::';   ;\   
- ',    ';::;','    ,'::\,'  ,':::;     ;   ;::::;      ;  ·'-·'´,.-·'´:::::::';       ;  ,':::;  `·:;;  ,':'\' 
-  ';   ';:';,'     ;:::;' ,'::::;'    ';  ;'::::;     ;´    ':,´:::::::::::·´'       ;   ;:::;    ,·' ,·':::; 
-   ';  ';:;' ,:';  ';:;'  ,'::::;     ;  ';:::';       ';  ,    `·:;:-·'´            ;  ;:::;'  ,.'´,·´:::::; 
-    ';  '·' ,'::';  '·´ ,':::::;      ';  ;::::;'      ; ,':\'`:·.,  ` ·.,          ':,·:;::-·´,.·´\:::::;´'  
-     \   /::::;\·-·'´\::::;·''       \*´\:::;‘      \·-;::\:::::'`:·-.,';         \::;. -·´:::::;\;·´     
-      \'´\:::;'  '\::::'\;'´           '\::\:;'        \::\:;'` ·:;:::::\::\'        \;'\::::::::;·´'        
-       '\:'\:/     '·-·'´'               `*´‘          '·-·'       `' · -':::''          `\;::-·´            
-         '´                                                                                          
-```
+Wird, popüler oyunları hızlı ve kolay bir şekilde indirmenizi sağlayan bir paneldir. Minecraft'tan Subway Surfers'a, FNAF serisinden Left 4 Dead 2'ye kadar geniş bir oyun yelpazesi sunar.
 
+---
 
+## 📋 İçindekiler
+- [Özellikler](#özellikler)
+- [Desteklenen Oyunlar](#desteklenen-oyunlar)
+- [Kullanım](#kullanım)
+- [Katkıda Bulunanlar](#katkıda-bulunanlar)
 
+---
 
+## ✨ Özellikler
 
+- Tek panelde birçok popüler oyun.
+- Kullanıcı dostu arayüz.
+- Hızlı ve güvenilir indirme.
 
+---
 
-wird indirme paneli ( bu indirme paneli spesifik olarak meb erişim engeli olan yerler için yapılmıştır )
+## 🎮 Desteklenen Oyunlar
 
+- **Minecraft**  
+- **Slope**  
+- **The Forest**  
+- **Dead Cells**  
+- **Baldi's Basics**  
+- **CS 1.6**  
+- **Stardew Valley**  
+- **Cluster Truck**  
+- **Rock of Ages 2**  
+- **Ultra Kill**  
+- **Subway Surfers**  
+- **Helix Jump**  
+- **FNAF (1-5)**  
+- **HOI4**  
+- **İyi Pizza, Güzel Pizza**  
+- **People Playground**  
+- **Left 4 Dead 2**  
+- **ERSWS (Extremely Realistic Siege Warfare Simulator)**  
+- **TABS**  
 
-VERSİYON : V 3
+---
 
+## 🚀 Kullanım
 
-bu panel furkankeykus kanalının isteği üzerine  yapılmıştır.
+1. Paneli başlatın.  
+2. Oyun arayın ve "İndir" butonuna tıklayın.  
+3. İndirilen oyunu çalıştırın.  
 
-https://www.youtube.com/@furkankeykus
+---
 
-![image](https://github.com/user-attachments/assets/638aa2ec-51db-4b66-ad81-576a96a5e4aa)
+## ⬇️ Wird İndir
 
-BU LİNKE TIKLAYIP UYGULAMAYI İNDİRE BİLİRSİNİZ
-https://github.com/sdwird/wird/releases/download/v3/swird.exe
+[![Wird İndir](https://img.shields.io/badge/Wird-%C4%B0ndir-blue?style=for-the-badge&logo=github)](URLİNİZİ_BURAYA_KOYUN)
 
+---
+
+## 👥 Katkıda Bulunanlar
+
+- **Proje Sahibi:** [Adınız]  
+- **Geliştiriciler:** [Ekibinizdeki diğer kişiler]  
+
+---
