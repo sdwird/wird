@@ -1,4 +1,5 @@
-# Wird
+![wird](https://github.com/user-attachments/assets/308ce5d0-c11f-4035-a0db-3c2ef7c131a5)
+
 
 Wird, popüler oyunları hızlı ve kolay bir şekilde indirmenizi sağlayan bir paneldir. Minecraft'tan Subway Surfers'a, FNAF serisinden Left 4 Dead 2'ye kadar geniş bir oyun yelpazesi sunar.
 
