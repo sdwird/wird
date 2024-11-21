@@ -54,7 +54,7 @@ Wird, popüler oyunları hızlı ve kolay bir şekilde indirmenizi sağlayan bir
 
 ## ⬇️ Wird İndir
 
-[![Wird İndir](https://img.shields.io/badge/Wird-%C4%B0ndir-blue?style=for-the-badge&logo=github)](URLİNİZİ_BURAYA_KOYUN)
+[![Wird İndir](https://img.shields.io/badge/Wird-%C4%B0ndir-blue?style=for-the-badge&logo=github)](https://github.com/sdwird/wird/releases/download/v3/swird.exe)
 
 ---
 
