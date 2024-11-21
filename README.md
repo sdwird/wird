@@ -6,6 +6,7 @@ Wird, popüler oyunları hızlı ve kolay bir şekilde indirmenizi sağlayan bir
 
 ## 📋 İçindekiler
 - [Özellikler](#özellikler)
+- [Wird İndir](#⬇️-wird-indir)
 - [Desteklenen Oyunlar](#desteklenen-oyunlar)
 - [Kullanım](#kullanım)
 - [Katkıda Bulunanlar](#katkıda-bulunanlar)
@@ -17,6 +18,12 @@ Wird, popüler oyunları hızlı ve kolay bir şekilde indirmenizi sağlayan bir
 - Tek panelde birçok popüler oyun.
 - Kullanıcı dostu arayüz.
 - Hızlı ve güvenilir indirme.
+
+---
+
+## ⬇️ Wird İndir
+
+[![Wird İndir](https://img.shields.io/badge/Wird-%C4%B0ndir-blue?style=for-the-badge&logo=github)](URLİNİZİ_BURAYA_KOYUN)
 
 ---
 
@@ -49,12 +56,6 @@ Wird, popüler oyunları hızlı ve kolay bir şekilde indirmenizi sağlayan bir
 1. Paneli başlatın.  
 2. Oyun arayın ve "İndir" butonuna tıklayın.  
 3. İndirilen oyunu çalıştırın.  
-
----
-
-## ⬇️ Wird İndir
-
-[![Wird İndir](https://img.shields.io/badge/Wird-%C4%B0ndir-blue?style=for-the-badge&logo=github)](https://github.com/sdwird/wird/releases/download/v3/swird.exe)
 
 ---
 
