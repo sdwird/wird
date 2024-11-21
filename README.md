@@ -53,7 +53,6 @@ Wird, Meb erişim engeli olmadan popüler oyunları hızlı ve kolay bir şekild
 
 ## 👥 Katkıda Bulunanlar
 
-- **Proje Sahibi:** [Adınız]  
-- **Geliştiriciler:** [Ekibinizdeki diğer kişiler]  
+- **Proje Sahibi:** [keykus]  
 
 ---
