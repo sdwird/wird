@@ -11,6 +11,6 @@ https://www.youtube.com/@furkankeykus
 
 ![image](https://github.com/user-attachments/assets/638aa2ec-51db-4b66-ad81-576a96a5e4aa)
 
-BU LİNKE TIKLAYIP UYGULAMAYI İNMDİRE BİLİRSİNİZ
+BU LİNKE TIKLAYIP UYGULAMAYI İNDİRE BİLİRSİNİZ
 https://github.com/sdwird/wird/releases/download/v3/swird.exe
 
