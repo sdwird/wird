@@ -2,16 +2,7 @@
 
 Wird, popüler oyunları hızlı ve kolay bir şekilde indirmenizi sağlayan bir paneldir. Minecraft'tan Subway Surfers'a, FNAF serisinden Left 4 Dead 2'ye kadar geniş bir oyun yelpazesi sunar.
 
----
 
-## 📋 İçindekiler
-- [Özellikler](#özellikler)
-- [Wird İndir](#⬇️-wird-indir)
-- [Desteklenen Oyunlar](#desteklenen-oyunlar)
-- [Kullanım](#kullanım)
-- [Katkıda Bulunanlar](#katkıda-bulunanlar)
-
----
 
 ## ✨ Özellikler
 
