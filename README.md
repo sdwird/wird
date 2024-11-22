@@ -23,6 +23,7 @@ Bazı oyunlar şifre gerektirmekte eğer şifre isterse gireceğiniz şifreler �
 - **12345**
 - **Oyunindir.club**
 - **Oyunindir.vip**
+  
 
 --
 [![Wird İndir](https://img.shields.io/badge/Wird-%C4%B0ndir-blue?style=for-the-badge&logo=github)](https://github.com/sdwird/wird/releases/download/v3/swird.exe)
