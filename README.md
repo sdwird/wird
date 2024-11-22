@@ -38,7 +38,7 @@ Wird, Meb erişim engeli olmadan popüler oyunları hızlı ve kolay bir şekild
 - **HOI4**  
 - **İyi Pizza, Güzel Pizza**  
 - **People Playground**  
-- **Left 4 Dead 2**  
+- **Left 4 Dead 2**  (KISA SÜRELİĞİNE ÇALIŞMIYOR!)
 - **ERSWS (Extremely Realistic Siege Warfare Simulator)**  
 - **TABS**  
 
