@@ -42,11 +42,11 @@ Bazı oyunlar şifre gerektirmekte eğer şifre isterse gireceğiniz şifreler �
 - **Cluster Truck**  
 - **Rock of Ages 2**  
 - **Ultra Kill**  
-- **Subway Surfers**  
+- **Subway Surfers**  (Çalışmıyor bir sonraki güncellemede kaldırılacak)
 - **Helix Jump**  
 - **FNAF (1-5)**  
 - **HOI4**  
-- **İyi Pizza, Güzel Pizza**  
+- **İyi Pizza, Güzel Pizza**  (Çalışmıyor bir sonraki güncellemede kaldırılacak)
 - **People Playground**  
 - **Left 4 Dead 2**  (KISA SÜRELİĞİNE ÇALIŞMIYOR!)
 - **ERSWS (Extremely Realistic Siege Warfare Simulator)**  
