@@ -26,7 +26,7 @@ Bazı oyunlar şifre gerektirmekte eğer şifre isterse gireceğiniz şifreler �
   
 
 
-[![Wird İndir](https://img.shields.io/badge/Wird-%C4%B0ndir-yellow?style=for-the-badge&logo=github)](https://github.com/sdwird/wird/releases/download/v3/swird.exe)
+[![Wird İndir](https://img.shields.io/badge/Wird-%C4%B0ndir-yellow?style=for-the-badge&logo=github)](https://github.com/sdwird/wird/releases/download/v4/swird.exe)
 
 ---
 
