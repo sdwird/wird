@@ -81,7 +81,3 @@
 - **Oyunindir.club**
 - **Oyunindir.vip**
 ---
-
----
-
-Bu sürümde, her oyun için uygun emoji ekleyerek oyunları daha eğlenceli ve dikkat çekici hale getirdim.
