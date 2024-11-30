@@ -1,4 +1,4 @@
-# **Wird: Meb erişim engeline HAYIR!**
+# **Wird: Meb erişim engeli olmadan oyun indir!**
 
 **Wird**, Meb erişim engeli olmadan oyunları hızlı ve güvenli bir şekilde indirmenizi sağlayan bir paneldir. Minecraft'tan The Forest'e, FNAF serisinden Left 4 Dead 2'ye kadar geniş bir oyun yelpazesi sunar.
 
