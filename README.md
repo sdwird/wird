@@ -79,7 +79,7 @@
 
 Bize yeni oyun önerilerinizi gönderebilirsiniz! İstediğiniz oyunu, aşağıdaki adımları izleyerek öneri olarak iletebilirsiniz:
 
-1. [GitHub Issues](https://github.com/sdwird/wird/issues) sayfasına gidin.
+1. [Buraya tıkla ve öneri gönder](https://github.com/sdwird/wird/issues) sayfasına gidin.
 2. "New Issue" butonuna tıklayın.
 3. Önerdiğiniz oyunun adını ve kısa açıklamasını yazın.
 4. Eğer oyun hakkında daha fazla detay paylaşmak isterseniz, lütfen ekleyin.
