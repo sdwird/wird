@@ -93,3 +93,9 @@ Alternatif olarak, doğrudan bir **Pull Request (PR)** göndererek oyununuzu pro
 - **12345**
 - **Oyunindir.club**
 - **Oyunindir.vip**
+  
+---
+<div align="center">
+        <img alt="Ziyaretçi İstatistikleri" 
+            src="https://widgetbite.com/stats/<sdwird>"/>  
+    </div>
