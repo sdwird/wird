@@ -75,9 +75,21 @@
 
 ---
 
+## 🔍 **Oyun Önerisi Gönder**
+
+Bize yeni oyun önerilerinizi gönderebilirsiniz! İstediğiniz oyunu, aşağıdaki adımları izleyerek öneri olarak iletebilirsiniz:
+
+1. [GitHub Issues](https://github.com/sdwird/wird/issues) sayfasına gidin.
+2. "New Issue" butonuna tıklayın.
+3. Önerdiğiniz oyunun adını ve kısa açıklamasını yazın.
+4. Eğer oyun hakkında daha fazla detay paylaşmak isterseniz, lütfen ekleyin.
+
+Alternatif olarak, doğrudan bir **Pull Request (PR)** göndererek oyununuzu projeye katkı olarak eklemeyi de tercih edebilirsiniz.
+
+---
+
 ## ⚠️ **Şifreler:**
 
 - **12345**
 - **Oyunindir.club**
 - **Oyunindir.vip**
----
