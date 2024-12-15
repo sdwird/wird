@@ -1,5 +1,7 @@
 # **Wird: Meb erişim engeli olmadan oyun indir!**
 
+DİKKAT LÜTFEN OKU : versiyon 5 için çok bekleniyor malesef kodunu tamamen değiştirip daha kaliteli yapıyorum şuanda muhtemel versiyon 5 çıkma tarihi 15 - 20 aralık arasında çıkacak.
+
 **Wird**, Meb erişim engeli olmadan oyunları hızlı ve güvenli bir şekilde indirmenizi sağlayan bir paneldir. Minecraft'tan The Forest'e, FNAF serisinden Left 4 Dead 2'ye kadar geniş bir oyun yelpazesi sunar.
 
 ![Wird](https://github.com/user-attachments/assets/308ce5d0-c11f-4035-a0db-3c2ef7c131a5)
