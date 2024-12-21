@@ -16,9 +16,9 @@ DİKKAT LÜTFEN OKU : versiyon 5 için çok bekleniyor malesef kodunu tamamen de
 
 ## ⬇️ **Wird İndir**
 
-![Version](https://img.shields.io/badge/version-4.0.0-yellow)
+![Version](https://img.shields.io/badge/version-5.0.0-cyan)
 
-[![Wird İndir](https://img.shields.io/badge/Wird-%C4%B0ndir-yellow?style=for-the-badge&logo=github)](https://github.com/sdwird/wird/releases/download/v4/swird.exe)
+[![Wird İndir](https://img.shields.io/badge/Wird-%C4%B0ndir-yellow?style=for-the-badge&logo=github)](https://github.com/sdwird/wird/releases/download/v5/swird.exe)
 
 ---
 
